@@ -55,6 +55,20 @@ Manejo el idioma ingles lo suficiente para establecer una conversación tradicio
 ![This is an image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![This is an image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
+#### Proyectos
+
+-[Sistema Educativo](https://github.com/ATLASSdeveloper/ProyectoSistemaEducativo)
+
+Un sistema que permite gestionar cursos, deberes, materias , usuarios para una ambiente académico, existen cuatro usuarios, donde cada uno tiene sus diferentes accesos, tales como el docente, estudiante, administrador y usuario invitado.
+
+-[Sistema de Venta de Productos](https://github.com/ATLASSdeveloper/MYCproyecto)
+
+Un sistema de venta de productos (similar a un amazon pequeño), donde los usuarios hacen compras en línea 
+
+-[Sistema Gestión Floricultura](https://github.com/ATLASSdeveloper/ProyectoFloricultura)
+
+Un sistema para la gestión y control de un negocio dedicado a la floricultura, donde brinda reportes y alarmas en caso de que los invernaderos no esten en condiciones óptimas para las plantas que albergan
+
 #### Estadísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATLASSdeveloper)](https://github.com/ATLASSdeveloper/github-readme-stats)
