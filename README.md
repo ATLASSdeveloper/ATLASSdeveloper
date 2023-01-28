@@ -33,8 +33,8 @@ Manejo el idioma ingles lo suficiente para establecer una conversación tradicio
 :construction: Para el desarrollo del videojuego, estoy aprendiendo a usar el motor de videojuegos Godot Engine (para practicar).
 
 #### Teconologías que uso
+![This is an image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-[Facebook](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
