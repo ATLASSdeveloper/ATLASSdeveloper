@@ -55,3 +55,6 @@ Manejo el idioma ingles lo suficiente para establecer una conversación tradicio
 ![This is an image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![This is an image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
+#### Estadísticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATLASSdeveloper)](https://github.com/ATLASSdeveloper/github-readme-stats)
