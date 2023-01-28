@@ -34,7 +34,8 @@ Manejo el idioma ingles lo suficiente para establecer una conversación tradicio
 
 #### Teconologías que uso
 
-https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+[Facebook](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
