@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![This is an image](https://png.pngtree.com/thumb_back/fh260/back_pic/03/92/83/4357e3f9c041936.jpg)
+![This is an image](http://i.imgur.com/hV6uJKv.jpg)
+
+Encuentrame en la web:
+-Escribeme y comparte en [Facebook](https://www.facebook.com/sebastian.ilbay)
