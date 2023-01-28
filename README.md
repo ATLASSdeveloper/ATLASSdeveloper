@@ -28,9 +28,17 @@ Prefiero el trabajo en equipo con personal serio y comprometido para el cumplimi
 Manejo el idioma ingles lo suficiente para establecer una conversación tradicional, por lo que debo practicar una comunicación más técnica.
 
 :computer: En mi tiempo libre, suelo programar o jugar videojuegos, una meta personal es crear un videjuego (en curso) e ir progresando en dicho campo.
+
+
 :mute: Prefiero trabajar en ambientes tranquilos y silenciosos
+
+
 :date: Suelo organizar el trabajo que debo realizar de acuerdo al nivel de urgencia y fecha de entrega.
+
+
 :construction: Para el desarrollo del videojuego, estoy aprendiendo a usar el motor de videojuegos Godot Engine (para practicar).
+
+
 
 #### Teconologías que uso
 ![This is an image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
