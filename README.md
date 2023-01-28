@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![This is an image](http://i.imgur.com/hV6uJKv.jpg)
 
-Encuentrame en la web:
+#### Encuentrame en la web:
+
 -Escribeme y comparte en [Facebook](https://www.facebook.com/sebastian.ilbay)
