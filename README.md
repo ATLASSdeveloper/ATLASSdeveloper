@@ -20,26 +20,6 @@ Here are some ideas to get you started:
 
 -Escribeme y comparte en [Facebook](https://www.facebook.com/sebastian.ilbay)
 
-#### Sobre mi
-
-Soy estudiante de la carrera de software de la Universidad Técnica de Ambato, el desarrollo Back-End es mi preferencia para la realización de un proyecto.
-Hasta el momento, he usado varias herramientas y manejado algunos lenguajes de programación para el desarrollo de los proyetos en los cuales me he visto involucrado.
-Prefiero el trabajo en equipo con personal serio y comprometido para el cumplimiendo de las metas del proyecto. 
-Manejo el idioma ingles lo suficiente para establecer una conversación tradicional, por lo que debo practicar una comunicación más técnica.
-
-:computer: En mi tiempo libre, suelo programar o jugar videojuegos, una meta personal es crear un videjuego (en curso) e ir progresando en dicho campo.
-
-
-:mute: Prefiero trabajar en ambientes tranquilos y silenciosos
-
-
-:date: Suelo organizar el trabajo que debo realizar de acuerdo al nivel de urgencia y fecha de entrega.
-
-
-:construction: Para el desarrollo del videojuego, estoy aprendiendo a usar el motor de videojuegos Godot Engine (para practicar).
-
-
-
 #### Teconologías que uso
 ![This is an image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
