@@ -3,21 +3,8 @@
       <img align="right" width="100%" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb">
   </div>
   <div>
-    <p align="left">I am a passionate Full Stack Developer with a deep love for React.js, Node.js, Mysql, REST APIs, and Data Visualization. My enthusiasm for coding and continuous learning drives me to build innovative and efficient web applications, always striving to enhance user experiences and optimize backend processes. </p>
-
-- 😎 Student of life :)
-- ⚡️ I’m currently learning many things, I believe that every day is a learning opportunity.
-- 🎨 Enjoy creating intuitive and user-friendly interfaces.
-- 🤝 Actively participating in tech communities and collaborating on various projects.
-- 🚀 Always looking for new challenges and opportunities to grow as a developer.
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ErickGranda3756.github.io) for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ErickGranda3756&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ErickGranda3756" style="padding-right:20px;" />
-</p>
+    <p style="float: left; width: 50%;">hola</p>
+    <p style="float: right; width: 50%; text-align: right;">hola</p>
   </div>
 
 </div>
