@@ -5,10 +5,10 @@
   <div>
     <table>
       <tr>
-        <td width="50%">
+        <td>
           hola
         </td>
-        <td width="50%">
+        <td>
           hola
         </td>
       </tr>
