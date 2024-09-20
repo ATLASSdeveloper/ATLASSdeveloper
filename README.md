@@ -3,8 +3,8 @@
       <img align="right" width="100%" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb">
   </div>
   <div>
-    <p style="float: left; width: 50%;">hola</p>
-    <p style="float: right; width: 50%; text-align: right;">hola</p>
+    <p>
+    </p>
   </div>
 
 </div>
