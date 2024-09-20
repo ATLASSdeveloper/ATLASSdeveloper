@@ -2,6 +2,10 @@
   <div class="banner">
       <img align="right" width="100%" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb">
   </div>
+  <div>
+    <div align="left">hola</div>
+    <div aling="right">hola</div>
+  </div>
 </div>
 
 <!--
