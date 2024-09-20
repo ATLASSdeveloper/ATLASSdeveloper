@@ -2,9 +2,17 @@
   <div class="banner">
       <img align="right" width="100%" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb">
   </div>
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="width: 50%; text-align: left;">hola</div>
-    <div style="width: 50%; text-align: right;">hola</div>
+  <div>
+    <table>
+      <tr>
+        <td width="50%">
+          hola
+        </td>
+        <td width="50%">
+          hola
+        </td>
+      </tr>
+    </table>
   </div>
 
 </div>
