@@ -4,11 +4,10 @@
   </div>
   <br/>
   <div class="header">
-    <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50" style="vertical-align: middle; margin-right: 10px;" />
+    <p style="display: inline-flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50" style="margin-right: 10px;" />
       <span><strong>Hello, My Name is Sebastián</strong></span>
     </p>
-
   <br/> 
 *Develop is love, develop is life*
   </div>
