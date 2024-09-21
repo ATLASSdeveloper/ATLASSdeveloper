@@ -4,8 +4,8 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
-<h3 align="center">Desarrollador apasionado por la tecnología, el aprendizaje continuo y los retos. 🚀</h3>
+<h1 align="center">¡Hello! I´m Sebastián 👋</h1>
+<h3 align="center">Develop is love, Develop is life. 🚀</h3>
 
 ---
 
