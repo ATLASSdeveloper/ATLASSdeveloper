@@ -3,8 +3,10 @@
       <img align="right" width="100%" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb">
   </div>
   <div class="header">
+    <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> 
-    <h1>Hello, My Name is Sebastián!</h1> 
+    <h1>Hello, My Name is Sebastián</h1>
+    </p>
   <br/> 
 *Develop is love, develop is life*
   </div>
