@@ -4,9 +4,10 @@
   </div>
   <div class="header">
     <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> 
-    <h1>Hello, My Name is Sebastián</h1>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" />
+      <span>Hello, My Name is Sebastián</span>
     </p>
+
   <br/> 
 *Develop is love, develop is life*
   </div>
