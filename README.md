@@ -1,80 +1,53 @@
-<div>
-  <div class="banner">
-      <img align="right" width="100%" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb">
-  </div>
-  <br/>
-  <div class="header" style="margin:10px">
-    <p style="display: inline-flex; align-items: center;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50"/>
-      <span><strong>Hello, My Name is Sebastián</strong></span>
-    </p>
-  <br /> 
-*Develop is love, develop is life*
-  </div>
-  <div>
-    <p>
-    </p>
-  </div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-url-here.com" alt="Banner" width="100%" />
+</p>
 
-</div>
+<!-- Header -->
+<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+<h3 align="center">Desarrollador apasionado por la tecnología, el aprendizaje continuo y los retos. 🚀</h3>
 
-<!--
-**ATLASSdeveloper/ATLASSdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
+- 💡 **Intereses**: Me encanta la **inteligencia artificial**, el **desarrollo web** y la **automatización de procesos**. Siempre estoy buscando nuevas herramientas y lenguajes para ampliar mi conocimiento.
+- 🌱 Actualmente estoy aprendiendo: **Machine Learning**, **Desarrollo Full-Stack**.
+- 🤔 Busco colaborar en proyectos innovadores que hagan un impacto positivo en la sociedad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![This is an image](http://i.imgur.com/hV6uJKv.jpg)
+---
 
-#### Encuentrame en la web:
+## 📂 Mis Proyectos
 
--Escribeme y comparte en [Facebook](https://www.facebook.com/sebastian.ilbay)
+| Nombre del Proyecto | Descripción | Tecnologías |
+|---------------------|-------------|-------------|
+| **[Proyecto 1](https://github.com/tu-usuario/proyecto-1)** | Sistema de gestión de activos para la Universidad Técnica de Ambato | Django, React, MySQL |
+| **[Proyecto 2](https://github.com/tu-usuario/proyecto-2)** | Control de temperatura y potencia de ventiladores usando lógica difusa | MATLAB, Fuzzy Logic |
+| **[Proyecto 3](https://github.com/tu-usuario/proyecto-3)** | Aplicación móvil de gestión de incidentes | Node.js, Express, React Native |
 
-#### Teconologías que uso
-![This is an image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![This is an image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![This is an image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![This is an image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![This is an image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![This is an image](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![This is an image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![This is an image](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
-![This is an image](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![This is an image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![This is an image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![This is an image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+---
 
-#### Lenguajes de programación y lenguajes de marcado usados
+## 🛠️ Herramientas y Tecnologías Favoritas
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MATLAB-FF9C00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-![This is an image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![This is an image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![This is an image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![This is an image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![This is an image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![This is an image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+---
 
-#### Proyectos
+## 🏆 Logros
+- 🔧 Desarrollé un sistema de control de activos colaborativo para **FISEI** en la Universidad Técnica de Ambato.
+- 💡 Creé un sistema de control de temperatura y potencia utilizando **lógica difusa**.
+- 📱 Implementé una aplicación móvil de gestión de incidentes que mejoró la experiencia del usuario en un 30%.
 
--[Sistema Educativo](https://github.com/ATLASSdeveloper/ProyectoSistemaEducativo)
+---
 
-Un sistema que permite gestionar cursos, deberes, materias , usuarios para una ambiente académico, existen cuatro usuarios, donde cada uno tiene sus diferentes accesos, tales como el docente, estudiante, administrador y usuario invitado.
+## 📫 Cómo contactarme
+- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
+- **LinkedIn**: [linkedin.com/in/tu-nombre](https://www.linkedin.com/in/tu-nombre)
+- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)
 
--[Sistema de Venta de Productos](https://github.com/ATLASSdeveloper/MYCproyecto)
-
-Un sistema de venta de productos (similar a un amazon pequeño), donde los usuarios hacen compras en línea 
-
--[Sistema Gestión Floricultura](https://github.com/ATLASSdeveloper/ProyectoFloricultura)
-
-Un sistema para la gestión y control de un negocio dedicado a la floricultura, donde brinda reportes y alarmas en caso de que los invernaderos no esten en condiciones óptimas para las plantas que albergan
-
-#### Estadísticas
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATLASSdeveloper)](https://github.com/ATLASSdeveloper/github-readme-stats)
