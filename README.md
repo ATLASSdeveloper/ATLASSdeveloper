@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">¡Hello! I´m Sebastián 👋</h1>
+<h1 align="center">¡Hello! I´m Sebastián <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50"/></h1>
 <h3 align="center">Develop is love, Develop is life. 🚀</h3>
 
 ---
