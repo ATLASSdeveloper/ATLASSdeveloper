@@ -14,17 +14,6 @@
 - 🤔 Busco colaborar en proyectos innovadores que hagan un impacto positivo en la sociedad.
 
 ---
-
-## 📂 Mis Proyectos
-
-| Nombre del Proyecto | Descripción | Tecnologías |
-|---------------------|-------------|-------------|
-| **[Proyecto 1](https://github.com/tu-usuario/proyecto-1)** | Sistema de gestión de activos para la Universidad Técnica de Ambato | Django, React, MySQL |
-| **[Proyecto 2](https://github.com/tu-usuario/proyecto-2)** | Control de temperatura y potencia de ventiladores usando lógica difusa | MATLAB, Fuzzy Logic |
-| **[Proyecto 3](https://github.com/tu-usuario/proyecto-3)** | Aplicación móvil de gestión de incidentes | Node.js, Express, React Native |
-
----
-
 ## 🛠️ Favorite Tools and Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -45,6 +34,15 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
 </p>
 
+---
+
+## 📂 My projects
+
+| Nombre del Proyecto | Descripción | Tecnologías |
+|---------------------|-------------|-------------|
+| **[Proyecto 1](https://github.com/tu-usuario/proyecto-1)** | Sistema de gestión de activos para la Universidad Técnica de Ambato | Django, React, MySQL |
+| **[Proyecto 2](https://github.com/tu-usuario/proyecto-2)** | Control de temperatura y potencia de ventiladores usando lógica difusa | MATLAB, Fuzzy Logic |
+| **[Proyecto 3](https://github.com/tu-usuario/proyecto-3)** | Aplicación móvil de gestión de incidentes | Node.js, Express, React Native |
 
 ---
 
