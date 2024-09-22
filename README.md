@@ -8,9 +8,7 @@
 <h3 align="center">Develop is love, Develop is life. 🚀</h3>
 
 ---
-<p>
 ## 🧑‍💻 About me
-</p>
 - 💡 **Intereses**: Me encanta la **inteligencia artificial**, el **desarrollo web** y la **automatización de procesos**. Siempre estoy buscando nuevas herramientas y lenguajes para ampliar mi conocimiento.
 - 🌱 Actualmente estoy aprendiendo: **Machine Learning**, **Desarrollo Full-Stack**.
 - 🤔 Busco colaborar en proyectos innovadores que hagan un impacto positivo en la sociedad.
