@@ -45,7 +45,7 @@
     <td width="50%">
       <h3 align="center">GourmetGo</h3>
       <div align="center">
-        <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-Respaldos" target="_blank">
+        <a href="https://github.com/PSW-GourtmetGO" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto1.png?alt=media&token=4df1ada0-b8ee-449f-9f3e-5d5091ab7601" width="400" alt="GourmetGo">
         </a>
         <p>
@@ -68,96 +68,6 @@
           </a>
         </p>
         <p>Mobile application developed to facilitate order management in restaurants.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">App - JGO</h3>
-      <div align="center">
-        <a href="https://github.com/ErickGranda3756/App-JGO" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto3.png?alt=media&token=7ed14bfd-eadf-42ed-adf2-ff7680cfc63f" width="400" alt="App - JGO">
-        </a>
-        <p>
-          <a href="https://github.com/ErickGranda3756/App-JGO" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Mobile application designed to optimize order management for product distribution companies.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Gestión De Biblioteca</h3>
-      <div align="center">
-        <a href="https://github.com/ErickGranda3756/gslibros" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto4.png?alt=media&token=4953f81d-9134-47cc-9d23-39618325610b" width="400" alt="Gestión De Biblioteca">
-        </a>
-        <p>
-          <a href="https://github.com/ErickGranda3756/gslibros" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Web application manage detailed information about books, as well as record and book rentals.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">CertyGet</h3>
-      <div align="center">
-        <a href="https://github.com/KevinCayo10/Certyget" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto5.png?alt=media&token=4612b211-1e9d-4536-9f8c-da8706d29161" width="400" alt="CertyGet">
-        </a>
-        <p>
-          <a href="https://github.com/KevinCayo10/Certyget" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Web application developed with Angular for the management and generation of certificates.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">App - CertyGet</h3>
-      <div align="center">
-        <a href="https://github.com/KevinCayo10/Certyget_mobile" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto6.png?alt=media&token=3487fd61-c7db-4c9e-baf6-a26955fada5f" width="400" alt="App - CertyGet">
-        </a>
-        <p>
-          <a href="https://github.com/KevinCayo10/Certyget_mobile" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Mobile application developed with Ionic for the management and generation of certificates.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Gestión De Permisos</h3>
-      <div align="center">
-        <a href="https://github.com/MancomunidadPermisos/Permisos-FrontEnd" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto7.png?alt=media&token=06632704-e8a4-427b-a331-01e12636f5f4" width="400" alt="Gestión De Permisos">
-        </a>
-        <p>
-          <a href="https://github.com/MancomunidadPermisos/Permisos-FrontEnd" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Web application developed to manage community permissions.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">App - Gestión De Permisos</h3>
-      <div align="center">
-        <a href="https://github.com/MancomunidadPermisos/PermisosMovil" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto8.png?alt=media&token=267a412e-3ac1-4adf-9f5d-7e2c36f04f95" width="400" alt="App - Gestión De Permisos">
-        </a>
-        <p>
-          <a href="https://github.com/MancomunidadPermisos/PermisosMovil" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Mobile application for managing permission requests.</p>
       </div>
     </td>
   </tr>
