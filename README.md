@@ -9,9 +9,11 @@
 
 ---
 ## 🧑‍💻 About me
-- 💡 **Intereses**: Me encanta la **inteligencia artificial**, el **desarrollo web** y la **automatización de procesos**. Siempre estoy buscando nuevas herramientas y lenguajes para ampliar mi conocimiento.
-- 🌱 Actualmente estoy aprendiendo: **Machine Learning**, **Desarrollo Full-Stack**.
-- 🤔 Busco colaborar en proyectos innovadores que hagan un impacto positivo en la sociedad.
+- 💡 Interests: I'm passionate about process automation, systems development, and virtual reality. I'm always eager to explore new technologies and push boundaries.
+- 🌱 Currently Learning: I'm diving deep into virtual reality development and exploring its potential applications.
+- 🤔 Looking to Collaborate On: I seek opportunities to work on innovative projects that create a positive impact on society, particularly in the fields of VR, automation, and tech for good.
+- 🎯 Personal Goals: My current goal is to expand my knowledge and expertise in virtual reality technology and its real-world applications.
+- 🧠 Learning Philosophy: I thrive on challenges, enjoy solving complex problems, and constantly aim to find and implement effective solutions.
 
 ---
 ## 🛠️ Favorite Tools and Technologies
