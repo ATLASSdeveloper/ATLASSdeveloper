@@ -45,17 +45,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">GourmetGo</h3>
+      <h3 align="center">GourmetGo Web-App</h3>
       <div align="center">
         <a href="https://github.com/PSW-GourtmetGO" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto1.png?alt=media&token=4df1ada0-b8ee-449f-9f3e-5d5091ab7601" width="400" alt="GourmetGo">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%201.jpg?alt=media&token=96fe1bd3-dd72-4dff-803b-03e951e3a273" width="400" alt="GourmetGo">
         </a>
         <p>
           <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-Respaldos" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>Web application developed to facilitate restaurant management, and also allows user registration.</p>
+        <p>Web application developed to facilitate restaurant management</p>
+        <p>App for ordering from registered restaurants</p>
       </div>
     </td>
     <td width="50%">
