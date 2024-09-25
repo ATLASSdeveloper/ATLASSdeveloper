@@ -74,14 +74,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Logros
-- 🔧 Desarrollé un sistema de control de activos colaborativo para **FISEI** en la Universidad Técnica de Ambato.
-- 💡 Creé un sistema de control de temperatura y potencia utilizando **lógica difusa**.
-- 📱 Implementé una aplicación móvil de gestión de incidentes que mejoró la experiencia del usuario en un 30%.
-
 ---
 
 ## 📫 Cómo contactarme
