@@ -66,7 +66,7 @@
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%201.jpg?alt=media&token=96fe1bd3-dd72-4dff-803b-03e951e3a273" width="400" alt="GourmetGo">
         </a>
         <p>
-          <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-Respaldos" target="_blank">
+          <a href="https://github.com/PSW-GourtmetGO" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
