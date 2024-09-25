@@ -92,8 +92,3 @@
 </table>
 ---
 
-## 📫 Cómo contactarme
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-nombre](https://www.linkedin.com/in/tu-nombre)
-- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)
-
