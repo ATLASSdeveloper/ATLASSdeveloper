@@ -16,6 +16,21 @@
 - 🧠 Learning Philosophy: I thrive on challenges, enjoy solving complex problems, and constantly aim to find and implement effective solutions.
 
 ---
+
+## Social:
+<div style="display: flex; align-items: center;">
+  <a href="mailto:atlantiscityplay@outlook.com" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="width: 30px; height: 30px;">
+    <span style="margin-left: 5px;">atlantiscityplay@outlook.com</span>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-ilbay-4a27bb311/" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 30px; height: 30px;">
+    <span style="margin-left: 5px;">Sebastián Ilbay</span>
+  </a>
+</div>
+
+---
 ## 🛠️ Favorite Tools and Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
