@@ -89,5 +89,36 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Inv-Control Web - App</h3>
+      <div align="center">
+        <a href="https://github.com/Invcontrol-Back" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%203.jpg?alt=media&token=b4d16064-521f-4548-a5d6-4843a0104c77" width="400" alt="InvControl">
+        </a>
+        <p>
+          <a href="hhttps://github.com/Invcontrol-Back" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>Application developed to facilitate the management of your organization's technological assets</p>
+        <p>App for portable inventory management</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Desktop app</h3>
+      <div align="center">
+        <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
+        </a>
+        <p>
+          <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
