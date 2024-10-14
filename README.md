@@ -75,17 +75,17 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">App - GourmetGo</h3>
+      <h3 align="center">Desktop app</h3>
       <div align="center">
-        <a href="https://github.com/PSW-GourtmetGO/GourmetGo-Movil-FrontEnd" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto2.png?alt=media&token=422c4b77-b55e-4c71-a217-1d5adc7527d0" width="400" alt="App - GourmetGo">
+        <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
         </a>
         <p>
-          <a href="https://github.com/PSW-GourtmetGO/GourmetGo-Movil-FrontEnd" target="_blank">
+          <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>Mobile application developed to facilitate order management in restaurants.</p>
+        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
       </div>
     </td>
   </tr>
