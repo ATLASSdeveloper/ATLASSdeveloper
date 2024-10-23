@@ -122,3 +122,7 @@
   </tr>
 </table>
 
+#### statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATLASSdeveloper)](https://github.com/ATLASSdeveloper/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLASSdeveloper&show_icons=true&locale=en&layout=compact" alt="katerin2001"/>
