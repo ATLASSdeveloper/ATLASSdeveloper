@@ -60,6 +60,44 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">Virtual Reality for Police Training</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/generico.png?alt=media&token=80baecf9-e169-417d-8dd8-89a6ae3d38df" width="400" alt="VRPolice">
+        </a>
+        <p>3D environment with virtual reality integration for immersive police training simulations.</p>
+        <p><strong>Technologies:</strong> Meta Quest 3 (VR headset), Godot (game engine), Blender (3D modeling).</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">E-Learning for Gaia Academic</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/generico.png?alt=media&token=80baecf9-e169-417d-8dd8-89a6ae3d38df" width="400" alt="VRPolice">
+        </a>
+        <p>Online educational platform with a certification module that allows students to obtain certificates upon completing courses, specifically designed for training companies in Ecuador.</p>
+        <p><strong>Technologies:</strong> SQL Server (Database), C# (programming language) and Hexagonal Architecture (Architecture).</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Clothing segmentation and color recognition</h3>
+      <div align="center">
+        <a href="https://github.com/ATLASSdeveloper/IAPROYECTOP2/tree/main" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%205.jpg?alt=media&token=81f12d4b-944f-4bca-94f6-50e299e14fe6" width="400" alt="IA">
+        </a>
+        <p>
+          <a href="https://github.com/ATLASSdeveloper/IAPROYECTOP2/tree/main" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>This web application identifies a person, segments the clothing they are wearing, and recognizes the colors of each garment for analysis and classification.</p>
+        <p>API with pre-trained models for color recognition using CNN, KNN, and SVM.</p>
+        <p><strong>Technologies:</strong> Python (programming language).</p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">GourmetGo Web-App</h3>
       <div align="center">
         <a href="https://github.com/PSW-GourtmetGO" target="_blank">
@@ -72,20 +110,7 @@
         </p>
         <p>Web application developed to facilitate restaurant management</p>
         <p>App for ordering from registered restaurants</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Desktop app</h3>
-      <div align="center">
-        <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
-        </a>
-        <p>
-          <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
+        <p><strong>Technologies:</strong> React (Web Frontend), Ionic (Mobile Frontend), Node.js (Backend), and MySQL (Database).</p>
       </div>
     </td>
   </tr>
@@ -103,8 +128,26 @@
         </p>
         <p>Application developed to facilitate the management of your organization's technological assets</p>
         <p>App for portable inventory management</p>
+        <p><strong>Technologies:</strong> Angular (Web Frontend), Flutter (Mobile Frontend), Django (Backend), and MySQL (Database).</p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Desktop app</h3>
+      <div align="center">
+        <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
+        </a>
+        <p>
+          <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
+        <p><strong>Technologies:</strong> C# (programming language) and MySQL(Database).</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Academic Management System Web</h3>
       <div align="center">
@@ -117,8 +160,10 @@
           </a>
         </p>
         <p>Web application developed to facilitate the academic management of an educational organization.</p>
+        <p><strong>Technologies:</strong> PHP (programming language) and MySQL(Database).</p>
       </div>
     </td>
+    <td></td>
   </tr>
 </table>
 
