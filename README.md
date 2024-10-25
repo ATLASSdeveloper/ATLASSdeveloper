@@ -137,13 +137,13 @@
         <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
         </a>
-        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
-        <p><strong>Technologies:</strong> DHT11(arduino board), C# (programming language) and MySQL(Database).</p>
         <p>
           <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
+        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
+        <p><strong>Technologies:</strong> DHT11(arduino board), C# (programming language) and MySQL(Database).</p>
       </div>
     </td>
   </tr>
@@ -154,13 +154,13 @@
         <a href="https://github.com/ATLASSdeveloper/ProyectoSistemaEducativo" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%204.png?alt=media&token=bec42843-6c38-462e-bc14-5202c100519f" width="400" alt="App - GourmetGo">
         </a>
-        <p>Web application developed to facilitate the academic management of an educational organization.</p>
-        <p><strong>Technologies:</strong> PHP (programming language) and MySQL(Database).</p>
         <p>
           <a href="https://github.com/ATLASSdeveloper/ProyectoSistemaEducativo" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
+        <p>Web application developed to facilitate the academic management of an educational organization.</p>
+        <p><strong>Technologies:</strong> PHP (programming language) and MySQL(Database).</p>
       </div>
     </td>
     <td></td>
