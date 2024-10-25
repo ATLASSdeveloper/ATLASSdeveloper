@@ -59,6 +59,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2">
+        <h2 align="center">
+            <i class="fas fa-briefcase"></i> Professional Scope
+        </h2>
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%">
       <h3 align="center">Virtual Reality for Police Training</h3>
       <div align="center">
@@ -80,6 +88,15 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2">
+        <h2 align="center">
+            <i class="fas fa-briefcase"></i> Academic Field
+        </h2>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%">
       <h3 align="center">Clothing segmentation and color recognition</h3>
