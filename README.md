@@ -138,7 +138,7 @@
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
         </a>
         <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
-        <p><strong>Technologies:</strong> C# (programming language) and MySQL(Database).</p>
+        <p><strong>Technologies:</strong> DHT11(arduino board), C# (programming language) and MySQL(Database).</p>
         <p>
           Not available: <strong>The Arduino configuration was not uploaded</strong>
         </p>
@@ -157,7 +157,6 @@
         <p>
           Not available: <strong>The database was not uploaded</strong>
         </p>
-
       </div>
     </td>
     <td></td>
