@@ -139,11 +139,9 @@
         </a>
         <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
         <p><strong>Technologies:</strong> C# (programming language) and MySQL(Database).</p>
-        
         <p>
           Not available: <strong>The Arduino configuration was not uploaded</strong>
         </p>
-
       </div>
     </td>
   </tr>
