@@ -42,7 +42,7 @@
     <td width="50%">
       <h3 align="center">Realidad virtual para entrenamiento policial</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://youtu.be/7D6yysWQ2hk" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/generico.png?alt=media&token=80baecf9-e169-417d-8dd8-89a6ae3d38df" width="400" alt="VRPolice">
         </a>
         <p>
@@ -53,20 +53,6 @@
         <p>Entorno 3D con integración de realidad virtual para simulaciones inmersivas de entrenamiento policial.</p> 
         <p><strong>Tecnologías:</strong> Meta Quest 3 (visor VR), Godot (motor de juegos), Blender (modelado 3D).</p>
       </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">E-Learning para Gaia Academic</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/generico.png?alt=media&token=80baecf9-e169-417d-8dd8-89a6ae3d38df" width="400" alt="VRPolice">
-        </a>
-        <p>Plataforma educativa en línea con un módulo de certificación que permite a los estudiantes obtener certificados al completar cursos, diseñada específicamente     para empresas de capacitación en Ecuador.</p> 
-        <p><strong>Tecnologías:</strong> SQL Server (Base de datos), .Net core 6 (Framework) y Arquitectura Hexagonal (Arquitectura).
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Segmentador de ropa y predicción de color</h3>
       <div align="center">
@@ -82,14 +68,16 @@
         <p><strong>Tecnologías:</strong> Python (lenguaje de programación).</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">GourmetGo Web</h3>
       <div align="center">
-        <a href="https://github.com/PSW-GourtmetGO" target="_blank">
+        <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%201.jpg?alt=media&token=96fe1bd3-dd72-4dff-803b-03e951e3a273" width="400" alt="GourmetGo">
         </a>
         <p>
-          <a href="https://github.com/PSW-GourtmetGO" target="_blank">
+          <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
@@ -97,31 +85,14 @@
         <p><strong>Tecnologías:</strong> React (Front-End), Node.js (Back-End) y MySQL (Base de datos).</p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Inv-Control Web</h3>
-      <div align="center">
-        <a href="https://github.com/Invcontrol-Back" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%203.jpg?alt=media&token=b4d16064-521f-4548-a5d6-4843a0104c77" width="400" alt="InvControl">
-        </a>
-        <p>
-          <a href="hhttps://github.com/Invcontrol-Back" target="_blank">
-            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
-          </a>
-        </p>
-        <p>Versión web de Inv Control, un sistema integral de gestión de inventarios diseñado para instituciones educativas. Esta solución combina la potencia de Flutter para una experiencia de usuario fluida y multiplataforma, junto con la robustez de Django en el backend para garantizar una gestión eficiente y segura de los datos.</p>
-        <p><strong>Tecnologías:</strong> Angular (Front-End), Django (Backend) y MySQL (Base de datos).</p>
-      </div>
-    </td>
     <td width="50%">
       <h3 align="center">GourmetGo App</h3>
       <div align="center">
-        <a href="https://github.com/PSW-GourtmetGO" target="_blank">
+        <a href="https://github.com/PSW-GourtmetGO/GourmetGo-Movil-FrontEnd" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%201.jpg?alt=media&token=96fe1bd3-dd72-4dff-803b-03e951e3a273" width="400" alt="GourmetGo">
         </a>
         <p>
-          <a href="https://github.com/PSW-GourtmetGO" target="_blank">
+          <a href="https://github.com/PSW-GourtmetGO/GourmetGo-Movil-FrontEnd" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
@@ -132,13 +103,28 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Inv-Control App</h3>
+      <h3 align="center">Inv-Control Web</h3>
       <div align="center">
-        <a href="https://github.com/Invcontrol-Back" target="_blank">
+        <a href="https://github.com/Invcontrol-Back/dasfrontend" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%203.jpg?alt=media&token=b4d16064-521f-4548-a5d6-4843a0104c77" width="400" alt="InvControl">
         </a>
         <p>
-          <a href="hhttps://github.com/Invcontrol-Back" target="_blank">
+          <a href="https://github.com/Invcontrol-Back/dasfrontend" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>Versión web de Inv Control, un sistema integral de gestión de inventarios diseñado para instituciones educativas. Esta solución combina la potencia de Flutter para una experiencia de usuario fluida y multiplataforma, junto con la robustez de Django en el backend para garantizar una gestión eficiente y segura de los datos.</p>
+        <p><strong>Tecnologías:</strong> Angular (Front-End), Django (Backend) y MySQL (Base de datos).</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Inv-Control App</h3>
+      <div align="center">
+        <a href="https://github.com/Invcontrol-Back/MovilFrontend" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%203.jpg?alt=media&token=b4d16064-521f-4548-a5d6-4843a0104c77" width="400" alt="InvControl">
+        </a>
+        <p>
+          <a href="https://github.com/Invcontrol-Back/MovilFrontend" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
@@ -146,11 +132,10 @@
         <p><strong>Tecnologías:</strong> Flutter (Front-End), Django (Backend) y MySQL (Base de datos).</p>
       </div>
     </td>
-    <td></td>
   </tr>
 </table>
 
-#### statistics
+#### Estadísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATLASSdeveloper)](https://github.com/ATLASSdeveloper/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLASSdeveloper&show_icons=true&locale=en&layout=compact" alt="Atlas"/>
