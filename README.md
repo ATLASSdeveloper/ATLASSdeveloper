@@ -1,88 +1,74 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/ban.JPG?alt=media&token=56987b30-5bcf-4cb9-854a-b8a7a85fdeeb" alt="Banner" width="100%" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/real_banner.png?alt=media&token=dc5f8879-9cc5-425b-8007-9987367025d4" alt="Banner" width="100%" />
 </p>
 
 <!-- Header -->
-<h1 align="center">¡Hello! I´m Sebastián <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50"/></h1>
-<h3 align="center">Develop is love, Develop is life. 🚀</h3>
+<h1 align="center">¡Hola! Soy Sebastián <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50"/></h1>
+<h3 align="center">El desarrollo es amor, el desarrollo es vida. 🚀</h3>
 
 ---
-## 🧑‍💻 About me
-- 💡 Interests: I'm passionate about process automation, systems development, and virtual reality. I'm always eager to explore new technologies and push boundaries.
-- 🌱 Currently Learning: I'm diving deep into virtual reality development and exploring its potential applications.
-- 🤔 Looking to Collaborate On: I seek opportunities to work on innovative projects that create a positive impact on society, particularly in the fields of VR, automation, and tech for good.
-- 🎯 Personal Goals: My current goal is to expand my knowledge and expertise in virtual reality technology and its real-world applications.
-- 🧠 Learning Philosophy: I thrive on challenges, enjoy solving complex problems, and constantly aim to find and implement effective solutions.
-
+## 🧑‍💻 Sobre Mí
+- 💡 Intereses: Me apasiona la automatización de procesos, el desarrollo de sistemas y la realidad virtual. Siempre estoy dispuesto a explorar nuevas tecnologías y superar límites.
+- 🌱 Aprendizaje continuo: Estoy profundizando en el desarrollo de realidad virtual y sus posibles áreas de aplicación.
+- 🎯 Meta Personal: Mi meta actual es ampliar mis conocimientos y experiencia en la tecnología de realidad virtual y sus aplicaciones en el mundo real.
+- 🧠 Filosofía de aprendizaje: Disfruto los desafíos, resolver problemas complejos y siempre busco implementar soluciones efectivas.
 ---
 
 ## Social:
 <div style="display: flex; align-items: center;">
   <a href="mailto:atlantiscityplay@outlook.com" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="width: 30px; height: 30px;">
-    <span style="margin-left: 5px;">atlantiscityplay@outlook.com</span>
   </a>
 
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-ilbay-rodr%C3%ADguez-4a27bb311/" target="_blank" style="text-decoration: none; margin-left: 20px;">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 30px; height: 30px;">
-    <span style="margin-left: 5px;">Sebastián Ilbay</span>
   </a>
 </div>
 
 ---
-## 🛠️ Favorite Tools and Technologies
+## 🛠️ Manejo de herramientas
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Community" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/tools.JPG?alt=media&token=68422038-202c-420e-94df-cd97b3317a5e" alt="C#" />
 </p>
-
 ---
 <table>
   <tr>
     <td colspan="2">
-      <h2 align="center">📂 My projects</h2>
+      <h2 align="center">📂 Proyectos</h2>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Virtual Reality for Police Training</h3>
+      <h3 align="center">Realidad virtual para entrenamiento policial</h3>
       <div align="center">
         <a href="#" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/generico.png?alt=media&token=80baecf9-e169-417d-8dd8-89a6ae3d38df" width="400" alt="VRPolice">
         </a>
-        <p>3D environment with virtual reality integration for immersive police training simulations.</p>
-        <p><strong>Technologies:</strong> Meta Quest 3 (VR headset), Godot (game engine), Blender (3D modeling).</p>
+        <p>
+          <a href="https://youtu.be/7D6yysWQ2hk" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-YouTube-red?logo=youtube" alt="View on YouTube">
+          </a>
+        </p>
+        <p>Entorno 3D con integración de realidad virtual para simulaciones inmersivas de entrenamiento policial.</p> 
+        <p><strong>Tecnologías:</strong> Meta Quest 3 (visor VR), Godot (motor de juegos), Blender (modelado 3D).</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">E-Learning for Gaia Academic</h3>
+      <h3 align="center">E-Learning para Gaia Academic</h3>
       <div align="center">
         <a href="#" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/generico.png?alt=media&token=80baecf9-e169-417d-8dd8-89a6ae3d38df" width="400" alt="VRPolice">
         </a>
-        <p>Online educational platform with a certification module that allows students to obtain certificates upon completing courses, specifically designed for training companies in Ecuador.</p>
-        <p><strong>Technologies:</strong> SQL Server (Database), C# (programming language) and Hexagonal Architecture (Architecture).</p>
+        <p>Plataforma educativa en línea con un módulo de certificación que permite a los estudiantes obtener certificados al completar cursos, diseñada específicamente     para empresas de capacitación en Ecuador.</p> 
+        <p><strong>Tecnologías:</strong> SQL Server (Base de datos), .Net core 6 (Framework) y Arquitectura Hexagonal (Arquitectura).
+        </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Clothing segmentation and color recognition</h3>
+      <h3 align="center">Segmentador de ropa y predicción de color</h3>
       <div align="center">
         <a href="https://github.com/ATLASSdeveloper/IAPROYECTOP2/tree/main" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%205.jpg?alt=media&token=81f12d4b-944f-4bca-94f6-50e299e14fe6" width="400" alt="IA">
@@ -92,13 +78,12 @@
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>This web application identifies a person, segments the clothing they are wearing, and recognizes the colors of each garment for analysis and classification.</p>
-        <p>API with pre-trained models for color recognition using CNN, KNN, and SVM.</p>
-        <p><strong>Technologies:</strong> Python (programming language).</p>
+        <p>Esta aplicación web identifica a una persona, segmenta la ropa que lleva puesta y reconoce los colores de cada prenda para su análisis y clasificación.</p>         <p>API con modelos preentrenados para el reconocimiento de colores utilizando CNN, KNN y SVM.</p> 
+        <p><strong>Tecnologías:</strong> Python (lenguaje de programación).</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">GourmetGo Web-App</h3>
+      <h3 align="center">GourmetGo Web</h3>
       <div align="center">
         <a href="https://github.com/PSW-GourtmetGO" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%201.jpg?alt=media&token=96fe1bd3-dd72-4dff-803b-03e951e3a273" width="400" alt="GourmetGo">
@@ -108,15 +93,14 @@
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>Web application developed to facilitate restaurant management</p>
-        <p>App for ordering from registered restaurants</p>
-        <p><strong>Technologies:</strong> React (Web Frontend), Ionic (Mobile Frontend), Node.js (Backend), and MySQL (Database).</p>
+        <p>Versión web de Gourmet Go, un sistema integral diseñado para la gestión eficiente de restaurantes. La plataforma permite administrar el menú ofrecido, la plantilla de empleados y los pedidos realizados a través de la aplicación móvil. Además, para que el restaurante sea visible en la aplicación móvil, es necesario activar una licencia, asegurando un control centralizado y personalizado del servicio.</p>
+        <p><strong>Tecnologías:</strong> React (Front-End), Node.js (Back-End) y MySQL (Base de datos).</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Inv-Control Web - App</h3>
+      <h3 align="center">Inv-Control Web</h3>
       <div align="center">
         <a href="https://github.com/Invcontrol-Back" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%203.jpg?alt=media&token=b4d16064-521f-4548-a5d6-4843a0104c77" width="400" alt="InvControl">
@@ -126,41 +110,40 @@
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>Application developed to facilitate the management of your organization's technological assets</p>
-        <p>App for portable inventory management</p>
-        <p><strong>Technologies:</strong> Angular (Web Frontend), Flutter (Mobile Frontend), Django (Backend), and MySQL (Database).</p>
+        <p>Versión web de Inv Control, un sistema integral de gestión de inventarios diseñado para instituciones educativas. Esta solución combina la potencia de Flutter para una experiencia de usuario fluida y multiplataforma, junto con la robustez de Django en el backend para garantizar una gestión eficiente y segura de los datos.</p>
+        <p><strong>Tecnologías:</strong> Angular (Front-End), Django (Backend) y MySQL (Base de datos).</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Desktop app</h3>
+      <h3 align="center">GourmetGo App</h3>
       <div align="center">
-        <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%202.jpg?alt=media&token=bf5e2258-dfb1-4601-b19f-f441bd0b8b86" width="400" alt="App - GourmetGo">
+        <a href="https://github.com/PSW-GourtmetGO" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/dise%C3%B1o%201.jpg?alt=media&token=96fe1bd3-dd72-4dff-803b-03e951e3a273" width="400" alt="GourmetGo">
         </a>
         <p>
-          <a href="https://github.com/ATLASSdeveloper/ProyectoFloricultura" target="_blank">
+          <a href="https://github.com/PSW-GourtmetGO" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>Desktop application developed to facilitate greenhouse management with alerts for changes in temperature and humidity.</p>
-        <p><strong>Technologies:</strong> DHT11(arduino board), C# (programming language) and MySQL(Database).</p>
+        <p>Versión móvil de Gourmet Go, un sistema complementario al sistema web que permite a los usuarios realizar pedidos de manera sencilla a restaurantes registrados. La aplicación está construida con React para ofrecer una interfaz intuitiva y fluida, y Node.js en el backend para garantizar un rendimiento óptimo. Además, integra una pasarela de pago con PayPal, brindando a los usuarios una experiencia de compra segura y conveniente.</p>
+        <p><strong>Tecnologías:</strong> Ionic (Front-End), Node.js (Back-End) y MySQL (Base de datos).</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Academic Management System Web</h3>
+      <h3 align="center">Inv-Control App</h3>
       <div align="center">
-        <a href="https://github.com/ATLASSdeveloper/ProyectoSistemaEducativo" target="_blank">
-          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%204.png?alt=media&token=bec42843-6c38-462e-bc14-5202c100519f" width="400" alt="App - GourmetGo">
+        <a href="https://github.com/Invcontrol-Back" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Dise%C3%B1o%203.jpg?alt=media&token=b4d16064-521f-4548-a5d6-4843a0104c77" width="400" alt="InvControl">
         </a>
         <p>
-          <a href="https://github.com/ATLASSdeveloper/ProyectoSistemaEducativo" target="_blank">
+          <a href="hhttps://github.com/Invcontrol-Back" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
-        <p>Web application developed to facilitate the academic management of an educational organization.</p>
-        <p><strong>Technologies:</strong> PHP (programming language) and MySQL(Database).</p>
+        <p>Versión móvil de Inv Control, un sistema integral de gestión de inventarios diseñado para instituciones educativas. Esta solución combina la potencia de Flutter para una experiencia de usuario fluida y multiplataforma, junto con la robustez de Django en el backend para garantizar una gestión eficiente y segura de los datos.</p>
+        <p><strong>Tecnologías:</strong> Flutter (Front-End), Django (Backend) y MySQL (Base de datos).</p>
       </div>
     </td>
     <td></td>
@@ -170,4 +153,4 @@
 #### statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATLASSdeveloper)](https://github.com/ATLASSdeveloper/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLASSdeveloper&show_icons=true&locale=en&layout=compact" alt="katerin2001"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ATLASSdeveloper&show_icons=true&locale=en&layout=compact" alt="Atlas"/>
