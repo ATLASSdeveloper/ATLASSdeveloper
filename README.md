@@ -15,7 +15,7 @@
 - 🧠 Filosofía de aprendizaje: Disfruto los desafíos, resolver problemas complejos y siempre busco implementar soluciones efectivas.
 ---
 
-## Social:
+## Redes Sociales:
 <div style="display: flex; align-items: center;">
   <a href="mailto:atlantiscityplay@outlook.com" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="width: 30px; height: 30px;">
@@ -23,6 +23,10 @@
 
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-ilbay-rodr%C3%ADguez-4a27bb311/" target="_blank" style="text-decoration: none; margin-left: 20px;">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 30px; height: 30px;">
+  </a>
+
+  <a href="https://web-portfolio-lilac.vercel.app/" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <img alt="Portafolio" src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/pngwing.com.png?alt=media&token=472e2015-5d04-4dc9-a9ff-0bd8e798c6dd" style="width: 30px; height: 30px;">
   </a>
 </div>
 
