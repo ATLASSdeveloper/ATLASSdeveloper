@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/real_banner.png?alt=media&token=dc5f8879-9cc5-425b-8007-9987367025d4" alt="Banner" width="100%" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/Frame%203.png?alt=media&token=6c018f7b-5233-4d58-bae1-5fe2735579d3" alt="Banner" width="100%" />
 </p>
 
 <!-- Header -->
@@ -33,7 +33,7 @@
 ---
 ## 🛠️ Manejo de herramientas
 <p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/tools.JPG?alt=media&token=68422038-202c-420e-94df-cd97b3317a5e" alt="C#" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/herramientas2.JPG?alt=media&token=ca213502-4e8c-4b8f-9012-9593fe5db9fb" alt="C#" />
 </p>
 ---
 <table>
