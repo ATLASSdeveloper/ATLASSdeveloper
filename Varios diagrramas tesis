@@ -225,11 +225,23 @@
         <mxCell id="kcJiO63gVTpjgezDmTfN-3" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;Tutorial&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="830" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kcJiO63gVTpjgezDmTfN-4" target="kcJiO63gVTpjgezDmTfN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-4" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;Escenas del crimen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="910" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-6" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;Licencias&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="980" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-10" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Escena 1&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="910" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-12" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;Godot Engine&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="960" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-13" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;Godot Engine&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1010" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
