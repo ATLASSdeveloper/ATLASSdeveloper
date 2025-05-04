@@ -318,7 +318,7 @@
         <mxCell id="kcJiO63gVTpjgezDmTfN-48" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Quitar filtro&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1030" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="kcJiO63gVTpjgezDmTfN-49" value="Contenedor 2D" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="kcJiO63gVTpjgezDmTfN-49" value="Interfaz" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="200" width="680" height="100" as="geometry">
             <mxRectangle y="20" width="680" height="30" as="alternateBounds" />
           </mxGeometry>
