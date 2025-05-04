@@ -326,14 +326,25 @@
         <mxCell id="kcJiO63gVTpjgezDmTfN-58" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-49">
           <mxGeometry x="600" y="35" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kcJiO63gVTpjgezDmTfN-49" source="kcJiO63gVTpjgezDmTfN-78" target="kcJiO63gVTpjgezDmTfN-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-78" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Ejecuta la interacción&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-49">
           <mxGeometry x="440" y="32.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-51" value="Contenedor 3D" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="300" width="680" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kcJiO63gVTpjgezDmTfN-51" source="kcJiO63gVTpjgezDmTfN-76" target="kcJiO63gVTpjgezDmTfN-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-76" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Recibe una señal&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-51">
           <mxGeometry x="290" y="40" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kcJiO63gVTpjgezDmTfN-51" source="kcJiO63gVTpjgezDmTfN-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-77" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Traduce la señal a entrada teclado&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-51">
           <mxGeometry x="440" y="40" width="80" height="35" as="geometry" />
@@ -341,14 +352,25 @@
         <mxCell id="kcJiO63gVTpjgezDmTfN-57" value="Jugador" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="400" width="680" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kcJiO63gVTpjgezDmTfN-57" source="kcJiO63gVTpjgezDmTfN-53" target="kcJiO63gVTpjgezDmTfN-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-53" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-57">
           <mxGeometry x="30" y="40" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kcJiO63gVTpjgezDmTfN-57" source="kcJiO63gVTpjgezDmTfN-72" target="kcJiO63gVTpjgezDmTfN-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-72" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;Interacción&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Verdana&quot;&gt;con interfaz&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-57">
-          <mxGeometry x="140" y="40" width="90" height="32.5" as="geometry" />
+          <mxGeometry x="140" y="38.75" width="90" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kcJiO63gVTpjgezDmTfN-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kcJiO63gVTpjgezDmTfN-57" source="kcJiO63gVTpjgezDmTfN-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="-20" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kcJiO63gVTpjgezDmTfN-75" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Emite una señal&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kcJiO63gVTpjgezDmTfN-57">
-          <mxGeometry x="290" y="38.75" width="80" height="35" as="geometry" />
+          <mxGeometry x="290" y="37.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
