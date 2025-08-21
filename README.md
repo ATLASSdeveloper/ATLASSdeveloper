@@ -38,11 +38,16 @@
 ---
 <table>
   <tr>
+    <td colspan="2">
+      <h2 align="center">📂 Proyectos</h2>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Asistente Q&A con LLM para análisis de documentos</h3>
       <div align="center">
         <a href="https://github.com/ATLASSdeveloper/PruebaDynecron" target="_blank">
-          <img src="https://www.google.com/search?q=Asistente+robot+animado&client=firefox-b-d&sca_esv=fd62a53945ec0901&udm=2&biw=1280&bih=595&sxsrf=AE3TifOXXYkv_K8IijIvZSwOdqoPLBWgYg%3A1755794900252&ei=1E2naJeUD5WNwbkPlNKk8Ac&ved=0ahUKEwiXzs_arZyPAxWVRjABHRQpCX4Q4dUDCBI&uact=5&oq=Asistente+robot+animado&gs_lp=EgNpbWciF0FzaXN0ZW50ZSByb2JvdCBhbmltYWRvMgYQABgIGB5IjhhQvQhYxBZwAXgAkAEAmAHVAqAB_RaqAQcwLjcuNS4yuAEDyAEA-AEBmAINoALzFMICBxAjGCcYyQLCAgYQABgHGB7CAg0QABiABBixAxhDGIoFwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIEEAAYHsICBhAAGAoYHpgDAIgGAZIHBzEuNS41LjKgB9gusgcHMC41LjUuMrgH5RTCBwUyLTYuN8gHYw&sclient=img#vhid=YIry3Og2Trs12M&vssid=mosaic" width="400" alt="IA">
+          <img src="https://firebasestorage.googleapis.com/v0/b/recursos-25fca.appspot.com/o/asistente%20QA.jpg?alt=media&token=9a2f611c-ba3d-470e-b0db-7d0f12be2a53" width="400" alt="IA">
         </a>
         <p>
           <a href="https://github.com/ATLASSdeveloper/PruebaDynecron" target="_blank">
@@ -54,11 +59,6 @@
       </div>
     </td>
 </tr>
-  <tr>
-    <td colspan="2">
-      <h2 align="center">📂 Proyectos</h2>
-    </td>
-  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Realidad virtual para entrenamiento policial</h3>
