@@ -38,6 +38,23 @@
 ---
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">Asistente Q&A con LLM para análisis de documentos</h3>
+      <div align="center">
+        <a href="https://github.com/ATLASSdeveloper/PruebaDynecron" target="_blank">
+          <img src="https://www.google.com/search?q=Asistente+robot+animado&client=firefox-b-d&sca_esv=fd62a53945ec0901&udm=2&biw=1280&bih=595&sxsrf=AE3TifOXXYkv_K8IijIvZSwOdqoPLBWgYg%3A1755794900252&ei=1E2naJeUD5WNwbkPlNKk8Ac&ved=0ahUKEwiXzs_arZyPAxWVRjABHRQpCX4Q4dUDCBI&uact=5&oq=Asistente+robot+animado&gs_lp=EgNpbWciF0FzaXN0ZW50ZSByb2JvdCBhbmltYWRvMgYQABgIGB5IjhhQvQhYxBZwAXgAkAEAmAHVAqAB_RaqAQcwLjcuNS4yuAEDyAEA-AEBmAINoALzFMICBxAjGCcYyQLCAgYQABgHGB7CAg0QABiABBixAxhDGIoFwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIEEAAYHsICBhAAGAoYHpgDAIgGAZIHBzEuNS41LjKgB9gusgcHMC41LjUuMrgH5RTCBwUyLTYuN8gHYw&sclient=img#vhid=YIry3Og2Trs12M&vssid=mosaic" width="400" alt="IA">
+        </a>
+        <p>
+          <a href="https://github.com/ATLASSdeveloper/PruebaDynecron" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>Aplicación web para subida de documentos, que permitan ser buscados (buscador de contenidos por palabras) y preguntados con un LLM implementado.</p> 
+        <p><strong>Tecnologías:</strong> FastAPI (backend) - React (frontend) - oLLama (LLM).</p>
+      </div>
+    </td>
+</tr>
+  <tr>
     <td colspan="2">
       <h2 align="center">📂 Proyectos</h2>
     </td>
